@@ -1,12 +1,13 @@
 # LUS_Video_Summarization
-An implementation of the summarization algorithm in the paper titled - Unsupervised multi-latent space reinforcement learning framework for video summarization in ultrasound imaging. The link to the paper can be found [here.] (https://arxiv.org/abs/2109.01309)
+An implementation of the summarization algorithm in the paper titled - Unsupervised multi-latent space reinforcement learning framework for video summarization in ultrasound imaging. The link to the paper can be found [here.](https://arxiv.org/abs/2109.01309)
 
-A video demonstration of the web-application deployment of the proposed video summarization model for Tele-medicine applications can be found at the website of the [Center for Computational Imaging] (http://www.pulseecho.in/alus/video-summarization/) at IIT Palakkad. [Video here](https://youtu.be/Th-XGQWRvpo)
+A video demonstration of the web-application deployment of the proposed video summarization model for Tele-medicine applications can be found at the website of the [Center for Computational Imaging](http://www.pulseecho.in/alus/video-summarization/) at IIT Palakkad. [Video here.](https://youtu.be/Th-XGQWRvpo)
 
 The python script vid_SAMGRAH_app.py provides the webapp (GUI) summarization of the ultrasound videos along with machine classification scores and overlayed lung segmentations.
 The python script base_inference_code.py provides the same summarization in a non gui manner.
 
-To run the webapp, please open the following folders in the working directory and enter: `streamlit run vid_SAMGRAH_app.py`
+To run the webapp, please open the following folders in the working directory and enter: 
+`streamlit run vid_SAMGRAH_app.py`
 
 The folder format is as follows:
 
