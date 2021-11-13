@@ -10,7 +10,7 @@ To run the webapp, please open the following folders in the working directory an
 `streamlit run vid_SAMGRAH_app.py`
 
 The folder format is as follows:
-
+```
 current directory          : main directory    
 -----> data                   : folder containing all original/raw lung ultrasound videos.    
 -----> summaryData            : folder for storing summarized videos that are generated.
@@ -20,6 +20,6 @@ current directory          : main directory
 -----> encFeatsH5             : folder for storing generated h5 features from encoders (optional).
 -----> vid_SAMGRAH_app.py     : Webapp LUS video summarization
 -----> base_inference_code.py : LUS video summarization (Non-GUI)
-
+```
 A high level outline of the proposed system methodology is given in the figure below. Please refer the article for complete details.
 ![Outline of the Proposed System](https://raw.githubusercontent.com/rpm1412/LUS_Video_Summarization/main/fig/Overall_Framework.png)
