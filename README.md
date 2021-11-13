@@ -6,6 +6,8 @@ A video demonstration of the web-application deployment of the proposed video su
 The python script `vid_SAMGRAH_app.py` provides the webapp (GUI) summarization of the ultrasound videos along with machine classification scores and overlayed lung segmentations.
 The python script `base_inference_code.py` provides the same summarization in a non gui manner.
 
+The `/data` folder contains 4 lung ultrasound videos that is used to demonstrate the summarization. The summarized videos can be found in `/summaryData` folder.
+
 To run the webapp, please open the following folders in the working directory and enter: 
 `streamlit run vid_SAMGRAH_app.py`
 
