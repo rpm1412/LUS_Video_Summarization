@@ -11,7 +11,7 @@ To run the webapp, please open the following folders in the working directory an
 
 The folder format is as follows:
 ```
-current directory          : main directory    
+current directory              : main directory    
     |-> data                   : folder containing all original/raw lung ultrasound videos.    
     |-> summaryData            : folder for storing summarized videos that are generated.
     |-> modelWeights           : folder containing model weights.
