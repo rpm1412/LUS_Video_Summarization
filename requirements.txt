@@ -14,6 +14,7 @@ Pillow==8.4.0
 pretrainedmodels==0.7.4
 pyparsing==3.0.6
 python-dateutil==2.8.2
+pytorch==1.10
 PyWavelets==1.2.0
 PyYAML==6.0
 qudida==0.0.4
