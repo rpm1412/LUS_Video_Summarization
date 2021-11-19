@@ -4,7 +4,7 @@ An implementation of the summarization algorithm in the paper titled - Unsupervi
 A video demonstration of the web-application deployment of the proposed video summarization model for Tele-medicine applications can be found at the website of the [Center for Computational Imaging](http://www.pulseecho.in/alus/video-summarization/) at IIT Palakkad. [Video here.](https://youtu.be/Th-XGQWRvpo)
 
 The python script `vid_SAMGRAH_app.py` provides the webapp (GUI) summarization of the ultrasound videos along with machine classification scores and overlayed lung segmentations.
-The python script `base_inference_code.py` provides the same summarization in a non gui manner.
+The python script `base_inference_code.py` provides the same summarization in a non gui manner. A link to the codeocean reproducible capsule is provided for running the code. [codeocean capsule here.](https://codeocean.com/capsule/8503804/tree/v1)
 
 The `/data` folder contains 4 lung ultrasound videos that is used to demonstrate the summarization. The summarized videos can be found in `/summaryData` folder.
 
