@@ -25,3 +25,13 @@ current directory              : main directory
 ```
 A high level outline of the proposed system methodology is given in the figure below. Please refer the article for complete details.
 ![Outline of the Proposed System](https://raw.githubusercontent.com/rpm1412/LUS_Video_Summarization/main/fig/Overall_Framework.png)
+
+#### ACADEMIC REFERENCES TO BE CITED:
+
+1. Roshan P Mathews, Mahesh Raveendranatha Panicker, Abhilash R Hareendranathan, Yale Tung Chen, Jacob L Jaremko, Brian Buchanan, Kiran Vishnu Narayan, Kesavadas C, Greeta Mathews, “Unsupervised multi-latent space reinforcement learning framework for video summarization in ultrasound imaging”, accepted in IEEE Journal of Biomedical and Health Informatics. https://doi.org/10.1109/JBHI.2022.3208779
+
+2. Roshan P Mathews, Mahesh Raveendranatha Panicker and Abhilash R Hareendranathan, “vid-SAMGRAH: A PyTorch framework for multi-latent space reinforcement learning driven video summarization in ultrasound imaging, in Elsevier Software Impacts, 100185 (2021). https://doi.org/10.1016/j.simpa.2021.100185 
+
+3. Roshan P Mathews, Mahesh Raveendranatha Panicker, Abhilash R Hareendranathan, Yale Tung Chen, Jacob L Jaremko, Brian Buchanan, Kiran Vishnu Narayan, Kesavadas C, Greeta Mathews, “RL based Unsupervised Video Summarization for US Imaging”, in Proc. of MICCAI 3rd International Workshop of Advances in Simplifying Medical UltraSound (ASMUS). Sep. 2022. https://doi.org/10.1007/978-3-031-16902-1_3
+
+
